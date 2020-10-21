@@ -80,3 +80,5 @@ Content/Thibaud/Blueprints/Player/BPP_Vaisseau.uasset
 Content/Thibaud/Blueprints/Player/BPC_Player.uasset
 
 Content/Thibaud/Blueprints/Player/Bp_Vaisseau.uasset
+Content/Maps/Level_01.umap
+Content/Maps/Spawn/BP_SmallSpawnTrigger.uasset
