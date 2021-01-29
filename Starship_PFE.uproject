@@ -11,6 +11,18 @@
 		{
 			"Name": "HoudiniNiagara",
 			"Enabled": true
+		},
+		{
+			"Name": "BacktraceIntegration",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher: //ue/marketplace/content/66f20b48cf6741e3a47a1fad7d118651",
+			"Token": "your crash submission token",
+			"SymbolsToken": "your symbols token",
+			"Realm": "yourname",
+			"ProjectName": "",
+			"SendReleasePdb": false,
+			"SendDebugPdb": false,
+			"OverrideGlobalReporter": false
 		}
 	]
 }
